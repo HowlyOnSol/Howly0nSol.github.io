@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+  display: grid;
+  justify-items: center;
+  font-family: Lilita One;
+  background: #f7e9b8;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

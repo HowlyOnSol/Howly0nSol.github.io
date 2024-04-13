@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jacquard+12+Charted&family=Jersey+10&family=Lilita+One&family=Pixelify+Sans:wght@400..700&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap");
+
+@import "global.css";
+@import "header.css";
+@import "rodmap.css";
+
+.rodape {
+  margin-top: 10px;
+  border-top: 3px solid #4f8297;
+  background: #dc9d4e;
+  width: 100%;
+  text-align: center;
+  padding: 40px;
+  box-sizing: border-box;
+}

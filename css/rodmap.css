@@ -1,0 +1,52 @@
+.roadmap {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-width: 1000px;
+  align-content: center;
+  font-size: 1em;
+  gap: 10px;
+}
+
+.get-howly h1 {
+  text-align: center;
+}
+
+.roadmap img {
+  width: 200px;
+}
+
+.get-howly {
+  background: #fff;
+  padding: 40px;
+  text-align: right;
+  display: grid;
+  justify-items: end;
+  gap: 20px;
+}
+.buy-now {
+  background: #ed1516;
+  padding: 15px;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 100px;
+}
+
+.comunity-first {
+  display: grid;
+  background: #4f8297;
+  padding: 40px;
+  text-align: left;
+}
+
+.comunity-first span {
+  color: #fff;
+}
+
+.community {
+  background: #f5b565;
+  padding: 40px;
+  text-align: right;
+  display: grid;
+  justify-items: end;
+}
